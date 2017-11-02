@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="styles.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <h1>Examples of the 3 different selectors</h1>
+    <h2>Element name</h2>
+    <p>p { <br> color:red; <br> font-family:verdana; <br> } <br> <br> h1 { <br> color:green; <br> font-family:courier <br> } </p>
+    <p>By using that code, all the paragraphs would become the style that is marked with a p. All the heading 1s would have the style that is marked with a h1. It would look like this:</p>
+    <h1 style="color:green;font-family:courier">Color is green and font family is courier</h1>
+    <p style="color:red;font-family:verdana">Color is red and the font is verdana</p>
+    <h2>Id</h2>
+    <p>#id1 { <br> color:violet; <br> background-color:red; <br> } <br> <br> #id2 { <br> color:orange; <br> background-color:green; <br> } </p>
+    <p>In order to use ids, you also need to add something in front of each paragraph. Like this:</p>
+    <p> &lt;h1 id=<q>id1</q>&gt;Heading 1&lt;/h1&gt;</p>
+    <p>Depending on which style you want to use, whether the styles under id1 or id2, all you have to do is add a id=<q>id1</q> to the element. If you assigned id1 to the heading and id2 to the paragraph, it would look like this:</p>
+    <h1 id="id1">Color is violet and background color is red</h1>
+    <p id="id2">Color is orange and background color is green</p>
+    <h2>Class</h2>
+    <p>.pinkc { <br> color:pink; <br> text-align:center; <br> } <br> <br> .bluer { <br> color:blue; <br> text-align:right; <br> }</p>
+    <p>You can name the word in front of the { whatever you want, but it needs to begin with a <q>.</q>.Like the id, you need to add class=<q>pinkc</q> after the <q>&lt;h1</q></p>
+    <p>If we assign the pinkc to the heading and bluer to the paragraph, it will look like this:</p>
+    <h1 class="pinkc">Color is pink and the text is center aligned.</h1>
+    <p class="bluer">Color is blue and text is right aligned.</p>
+    <a href="/index.html">Index</a>
+  </body>
+</html>
