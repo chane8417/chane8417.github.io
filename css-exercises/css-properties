@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>CSS Properties</title>
+    <link href="property-styles.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <p class="mystyle">IP is the Internet Protocol.</p>
+    <p class="mybstyle">IP is the Internet Protocol.</p>
+    <p class="mybgstyle">Packet switched networks rule.</p>
+    <p class="mybgistyle">HTML is for content.</p>
+    <p class="mytstyle">CSS is for presentation.</p>
+    <p class="myfstyle">Serif is kind of old school.</p>
+    <p class="myfontstyle">San-serif is best for the web.</p>
+  </body>
+</html>
