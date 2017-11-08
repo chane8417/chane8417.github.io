@@ -17,7 +17,18 @@ h2 {
 
 /* paragraph style */
 p {
-  color: #0B5345;
+  color: #043017;
   text-align: left;
   font-family: Georgia;
   }
+  
+/* heading #1 style */
+.heading {
+  text-align: center;
+  font-family: georgia;
+}
+
+/* table style */
+table {
+  align-self: center;
+}
