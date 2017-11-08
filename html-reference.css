@@ -1,1 +1,23 @@
+/* table headings style */
+.table-headings {
+  background-color: #85C1E9;
+  font-family: "courier new";
+  color: #7D3C98;
+  text-align: center;
+}
 
+/* headings style */
+h2 {
+  color: #154360;
+  text-align: center;
+  font-family: monospace;
+  border: 5px solid dodgerblue;
+  background-color: #82E0AA;
+}
+
+/* paragraph style */
+p {
+  color: #0B5345;
+  text-align: left;
+  font-family: Georgia;
+  }
