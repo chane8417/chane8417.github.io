@@ -30,7 +30,7 @@ p {
 }
 
 /* table style */
-table {
+.table {
   color: #791AAF;
   font-family: monospace;
 }
