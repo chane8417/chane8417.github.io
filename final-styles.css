@@ -1,1 +1,16 @@
+.content {
+  background-color: #0E0766;
+}
 
+.content p {
+  font-family: helvetica, sans-serif;
+  color:white;
+}
+
+img {
+  width:100%;
+}
+
+h2 {
+  color: #FFA106;
+}
