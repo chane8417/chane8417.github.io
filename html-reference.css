@@ -39,3 +39,10 @@ p {
 body {
   background-color: #E9CCFA;
 }
+
+/* link style */
+.link {
+  text-decoration: none;
+  font-family: monospace;
+  color: violet;
+}
