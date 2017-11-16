@@ -44,5 +44,6 @@ body {
 .link {
   text-decoration: none;
   font-family: monospace;
-  color: violet;
+  color: green;
+  font-size: 200%;
 }
