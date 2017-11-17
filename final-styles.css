@@ -9,8 +9,14 @@
 
 img {
   width:100%;
+  color: white;
 }
 
 h2 {
   color: #FFA106;
+}
+
+li {
+  color:white;
+  font-family:"courier new", sans-serif;
 }
