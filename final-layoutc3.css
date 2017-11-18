@@ -1,7 +1,9 @@
+/* box sizing */
 * {
     box-sizing: border-box;
 }
 
+/* body margin style */
 body {
   margin: 0;
 }
@@ -81,6 +83,7 @@ body {
     color: #33190a;
 }
 
+/* makes the columns float to the right */
 .ncolumn {
   float: right;
   width: 50%;
