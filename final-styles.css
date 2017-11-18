@@ -1,22 +1,22 @@
 .content {
-  background-color: #0E0766;
+  background-color: #fcb185;
 }
 
 .content p {
   font-family: helvetica, sans-serif;
-  color:white;
+  color: #722d05;
 }
 
 img {
   width:100%;
-  color: white;
+  color: #722d05;
 }
 
 h2 {
-  color: #FFA106;
+  color: #33190a;
 }
 
 li {
-  color:white;
-  font-family:"courier new", sans-serif;
+  color: #722d05;
+  font-family: helvetica, sans-serif;
 }
