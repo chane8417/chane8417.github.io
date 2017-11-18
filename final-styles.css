@@ -1,30 +1,37 @@
+/* content background color */
 .content {
   background-color: #fcb185;
 }
 
+/* content style */
 .content p {
   font-family: helvetica, sans-serif;
   color: #722d05;
 }
 
+/* image width and alt text color */
 .image {
   width: 100%;
   color: #722d05;
 }
 
+/* heading 2 text color */
 h2 {
   color: #33190a;
 }
 
+/* list text colors and fonts */
 li {
   color: #722d05;
   font-family: helvetica, sans-serif;
 }
 
+/* padding */
 .padding {
   padding: 10px;
 }
 
+/* table styles */
 table {
   color: #7a5522;
   text-align: left;
@@ -35,6 +42,7 @@ table {
   width: 100%; 
 }
 
+/* table heading styles */
 .tableheadings {
   color: #513002;
   text-align: center;
@@ -42,10 +50,12 @@ table {
   background: #f79409;
 }
 
+/* table caption font size */
 caption {
   font-size: 200%;
 }
 
+/* background color style */
 .background {
   background-color: #fcb185;
 }
