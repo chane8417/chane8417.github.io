@@ -7,8 +7,8 @@
   color: #722d05;
 }
 
-img {
-  width:100%;
+.image {
+  width: 100%;
   color: #722d05;
 }
 
@@ -19,4 +19,33 @@ h2 {
 li {
   color: #722d05;
   font-family: helvetica, sans-serif;
+}
+
+.padding {
+  padding: 10px;
+}
+
+table {
+  color: #7a5522;
+  text-align: left;
+  font-family: monospace;
+  background: #efab4c;
+  border: 2px solid brown;
+  height: 100%;
+  width: 100%; 
+}
+
+.tableheadings {
+  color: #513002;
+  text-align: center;
+  font-family: monospace;
+  background: #f79409;
+}
+
+caption {
+  font-size: 200%;
+}
+
+.background {
+  background-color: #fcb185;
 }
